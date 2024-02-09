@@ -1,5 +1,5 @@
 let lineNumber;
 let count = 0
-while (/* some test */) {
+while (count < 8) {
   // your code here 
 }

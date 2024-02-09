@@ -8,10 +8,10 @@ In this lab, we will be practicing some basic loops and conditional logic within
 
 Topics:
 
-- `while` Loops
-- `if...else` Conditional Logic
-- Functions
-- Variables
+- [`while` Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+- [`if...else` Conditional Logic](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 
 ## Achieving
 
